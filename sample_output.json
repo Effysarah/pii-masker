@@ -1,0 +1,30 @@
+{
+  "masked_text": "My name is [NAME:__TOKEN_1__] and my email is [EMAIL:__TOKEN_2__], call me on +234 [PHONE:__TOKEN_3__]. I live at [ADDRESS:__TOKEN_4__]. Use API key [API_KEY:__TOKEN_5__] to connect.",
+  "pii_map": {
+    "__TOKEN_1__": {
+      "value": "Sarah Effiong",
+      "label": "NAME",
+      "confidence": 0.95
+    },
+    "__TOKEN_2__": {
+      "value": "effysarah3108@gmail.com",
+      "label": "EMAIL",
+      "confidence": 0.99
+    },
+    "__TOKEN_3__": {
+      "value": "8065057728",
+      "label": "PHONE",
+      "confidence": 0.96
+    },
+    "__TOKEN_4__": {
+      "value": "42 Broad Street",
+      "label": "ADDRESS",
+      "confidence": 0.93
+    },
+    "__TOKEN_5__": {
+      "value": "sk_test_51XYZabcde",
+      "label": "API_KEY",
+      "confidence": 0.97
+    }
+  }
+}

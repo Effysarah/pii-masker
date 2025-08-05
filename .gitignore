@@ -1,0 +1,8 @@
+# Ignore virtual environments
+spacy/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore submission archive
+pii_masker_submission.zip
