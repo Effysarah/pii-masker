@@ -1,4 +1,4 @@
-# PII Detection & Masking Prototype – AnotiAI Technical Test
+# PII Detection & Masking Prototype 
 
 This project is a lightweight PII detection and masking prototype for the WhoseDev AI IDE. It takes raw text input, detects sensitive entities like names, emails, developer secrets, phone numbers, and addresses, and replaces them with structured tokens.
 
